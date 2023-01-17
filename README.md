@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanrudd&show_icons=true&locale=en&layout=compact" alt="jonathanrudd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanrudd&show_icons=true&locale=en" alt="jonathanrudd" /></p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrudd)](https://github.com/jonathanrudd/github-readme-stats)
