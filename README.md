@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [givr](givr.site)
+  <a href="See my presentation here"><src="https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s" alt="givr" /></a
   (See my presentation here https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
 - 🌱 I’m currently learning **fullstack Webdev @LeWagon**
