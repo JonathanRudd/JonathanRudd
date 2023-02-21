@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -->
 - **@LeWagon graduate**
 
-- 🔭 I’m currently working on WesBos' 30 day JS course
+- 🔭 I’m currently working on givr.site
    
    [See my presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
-- 🌱 I’m currently learning JS animation 
+- 🌱 I’m currently learning JS with WesBos' 30 day JS course
 
 - 📫 How to reach me **jonathanrudd3@gmail.com**
 
