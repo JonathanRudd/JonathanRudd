@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanrudd" alt="jonathanrudd" /></a> </p>
 -->
+- **@LeWagon graduate**
 
-- 🔭 I’m currently working on [givr](givr.site)
+- 🔭 I’m currently working on WesBos' 30 day JS course
    
    [See my presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
-- 🌱 I’m currently learning **fullstack Webdev @LeWagon**
+- 🌱 I’m currently learning JS animation 
 
 - 📫 How to reach me **jonathanrudd3@gmail.com**
 
