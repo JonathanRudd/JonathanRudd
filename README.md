@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 - **@LeWagon graduate**
 
-- 🔭 I’m currently working on chat gpt apps and a game tracker for the KillTeam tabletop game.
-   [See my presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
+- 🔭 I’m currently working on a chat gpt chatbot for LINE, and an interative static webpage NPC
+ 
+-   [See my Bootcamp presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
 - 🌱 I’m currently learning ReactJS with the react-tutorial.app
 
