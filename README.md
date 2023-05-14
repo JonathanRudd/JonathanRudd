@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 - **@LeWagon graduate**
 
-- 🔭 I’m currently working on a chat gpt chatbot for LINE, and an interative static webpage NPC
-- https://www.notion.so/Static-Page-NPC-Chatbot-05a9d75c2c63439e94280cf3398b9c28
+- 🔭 I’m currently working on a chat gpt chatbot for LINE, and an interactive static webpage NPC
+https://slash-scorpio-ea0.notion.site/Static-Page-NPC-Chatbot-05a9d75c2c63439e94280cf3398b9c28
  
 -   [See my Bootcamp presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
