@@ -25,7 +25,7 @@ https://slash-scorpio-ea0.notion.site/Static-Page-NPC-Chatbot-05a9d75c2c63439e94
  
 -   [See my Bootcamp presentation here](https://www.youtube.com/watch?v=yh8iZUNj8B8&t=4072s)
 
-- 🌱 I’m currently learning ReactJS with the react-tutorial.app
+- 🌱 I’m currently learning ReactJS
 
 - 📫 How to reach me **jonathanrudd3@gmail.com**
 
